@@ -9,12 +9,10 @@ import java.util.Enumeration;
 import java.util.Random;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
 /**
  * @ClassName: NetKit
  * @Description: 网络工具
- * @author wangjie
- * @date 2016年8月22日 下午3:21:26
+ * @author xuqinghuo
  *
  */
 public class NetKit {

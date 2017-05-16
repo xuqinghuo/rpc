@@ -3,9 +3,11 @@ package org.lib.rpc.utils;
 import java.util.UUID;
 
 public class StringKit {
+
 	/**
-	 * UUID
-	 */
+	 *
+	 * @return
+     */
 	public static String getUUID()
 	{
 		UUID uuid=UUID.randomUUID();

@@ -22,10 +22,8 @@ import java.util.regex.Pattern;
 /**
  * @ClassName: ReflectKit
  * @Description: 反射工具
- * @author wangjie
- * @date 2016年8月23日 下午4:15:22
- *
- */ 
+ * @author xuqinghuo
+ */
 public final class ReflectKit {
     
 	/**
