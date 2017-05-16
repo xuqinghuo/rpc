@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="rpc">
+    <output-path>$PROJECT_DIR$/out/artifacts/rpc</output-path>
+    <root id="root" />
+  </artifact>
+</component>
